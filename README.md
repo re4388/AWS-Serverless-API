@@ -4,6 +4,19 @@
 github -> aws-poc-0
 
 
+# CRUD
+just put below in brower and you can see result
+## get all items
+https://xcd5wvrlqe.execute-api.us-east-1.amazonaws.com/Prod
+
+## git item by id
+https://xcd5wvrlqe.execute-api.us-east-1.amazonaws.com/Prod/id/1
+
+## put item
+curl -v -X "POST" -H "Content-Type: application/json" -d "{\"id\": \"123\", \"name\": \"Jack\"}" https://xcd5wvrlqe.execute-api.us-east-1.amazonaws.com/Prod
+
+
+
 ## how to deploy
 
 sam build && sam deploy --guided
