@@ -50,5 +50,5 @@ https://us-east-1.console.aws.amazon.com/apigateway/main/apis?region=us-east-1
 https://us-east-1.console.aws.amazon.com/cost-management/home?region=us-east-1#/custom?groupBy=Service&hasBlended=false&hasAmortized=false&excludeDiscounts=true&excludeTaggedResources=false&excludeCategorizedResources=false&excludeForecast=false&timeRangeOption=Last6Months&granularity=Monthly&reportName=&reportType=CostUsage&isTemplate=true&filter=%5B%5D&chartStyle=Group&forecastTimeRangeOption=None&usageAs=usageQuantity&startDate=2022-02-01&endDate=2022-07-31
 
 
-## clean up
+## How to clean up
 - Go to cloudformation to clean up the tech-stack 
