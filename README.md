@@ -1,5 +1,5 @@
 
-# AWS serverless api (via api-gateway, lambda, dynamoDB, SAM-deploy)
+# AWS Serverless API (via api-gateway, lambda, dynamoDB, SAM-deploy)
 
 
 ## How to test it?
